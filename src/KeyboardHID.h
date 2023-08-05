@@ -81,7 +81,7 @@
 #define CPARENTHESIS 45
 #define EQUAL 46
 #define CIRCUMFLEX 47
-#define DOLAR 48
+#define DOLLAR 48
 #define UACCENT 52
 #define MULTI2 49
 #define EXCMA 56
@@ -113,7 +113,8 @@
 #define _X 27
 #define _C 6
 #define _V 25
-#define _B 17
+#define _B 5
+#define _N 17
 
 #define null 0
 
