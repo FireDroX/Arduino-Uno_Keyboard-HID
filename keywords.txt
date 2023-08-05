@@ -1,0 +1,107 @@
+KeywordsHID     KEYWORD1
+
+KeyboardWrite   KEYWORD2
+
+ESC             LITERAL1
+TAB             LITERAL1
+CAPS            LITERAL1
+LSHIFT 2        LITERAL1
+LCTRL 2         LITERAL1
+LWIN 2          LITERAL1
+LALT 2          LITERAL1
+SPACE           LITERAL1
+RALT 2          LITERAL1
+RWIN 2          LITERAL1
+MENU 1          LITERAL1
+RCTRL 2         LITERAL1
+RSHIFT 2        LITERAL1
+Enter           LITERAL1
+Backspace       LITERAL1
+F1              LITERAL1
+F2              LITERAL1
+F3              LITERAL1
+F4              LITERAL1
+F5              LITERAL1
+F6              LITERAL1
+F7              LITERAL1
+F8              LITERAL1
+F9              LITERAL1
+F10             LITERAL1
+F11             LITERAL1
+F12             LITERAL1
+PRSC            LITERAL1
+SCLK            LITERAL1
+PAUS            LITERAL1
+INS             LITERAL1
+Home            LITERAL1
+pgUp            LITERAL1
+Del             LITERAL1
+END             LITERAL1
+pgDN            LITERAL1
+up              LITERAL1
+left            LITERAL1
+down            LITERAL1
+right           LITERAL1
+K0              LITERAL1
+K1              LITERAL1
+K2              LITERAL1
+K3              LITERAL1
+K4              LITERAL1
+K5              LITERAL1
+K6              LITERAL1
+K7              LITERAL1
+K8              LITERAL1
+K9              LITERAL1
+dot             LITERAL1
+KPEN            LITERAL1
+NMLK            LITERAL1
+DIVIDE          LITERAL1
+MULTI           LITERAL1
+MINUS           LITERAL1
+ADD             LITERAL1
+SMALL2          LITERAL1
+AND             LITERAL1
+ET              LITERAL1
+QUOTE           LITERAL1
+SMALLQUOTE      LITERAL1
+OPARENTHESIS    LITERAL1
+MINUS2          LITERAL1
+ET2             LITERAL1
+UNDERSCORE      LITERAL1
+CEDILLA         LITERAL1
+AACCENT         LITERAL1
+CPARENTHESIS    LITERAL1
+EQUAL           LITERAL1
+CIRCUMFLEX      LITERAL1
+DOLAR           LITERAL1
+UACCENT         LITERAL1
+MULTI2          LITERAL1
+EXCMA           LITERAL1
+X2POINT         LITERAL1
+X1POINT         LITERAL1
+COMA            LITERAL1
+_A              LITERAL1
+_Z              LITERAL1
+_E              LITERAL1
+_R              LITERAL1
+_T              LITERAL1
+_Y              LITERAL1
+_U              LITERAL1
+_I              LITERAL1
+_O              LITERAL1
+_P              LITERAL1
+_Q              LITERAL1
+_S              LITERAL1
+_D              LITERAL1
+_F              LITERAL1
+_G              LITERAL1
+_H              LITERAL1
+_J              LITERAL1
+_K              LITERAL1
+_L              LITERAL1
+_M              LITERAL1
+_W              LITERAL1
+_X              LITERAL1
+_C              LITERAL1
+_V              LITERAL1
+_B              LITERAL1
