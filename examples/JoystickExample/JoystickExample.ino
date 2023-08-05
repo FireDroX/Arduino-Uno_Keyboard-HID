@@ -73,11 +73,11 @@ void loop() {
   if(yValue >= 0 && yValue <= 750 && xValue > 700 && dataButton == HIGH) KeyboardWrite(_J, null, null);
 
   // Previous Spotify
-  if(xValue >= 0 && xValue <= 750 && yValue < 100 && dataButton == LOW) KeyboardWrite(RALT, K5, null); delay(200);
+  if(xValue >= 0 && xValue <= 750 && yValue < 100 && dataButton == LOW) { KeyboardWrite(RALT, K5, null); delay(200); }
 
   // Next Spotify
-  if(xValue >= 0 && xValue <= 750 && yValue > 700 && dataButton == LOW) KeyboardWrite(RALT, K6, null); delay(200);
+  if(xValue >= 0 && xValue <= 750 && yValue > 700 && dataButton == LOW) { KeyboardWrite(RALT, K6, null); delay(200); }
 
   // Play / Pause
-  if(yValue >= 0 && yValue <= 750 && xValue < 100 && dataButton == LOW) KeyboardWrite(RALT, K4, null); delay(200);
+  if(yValue >= 0 && yValue <= 750 && xValue < 100 && dataButton == LOW) { KeyboardWrite(RALT, K4, null); delay(200); }
 }
